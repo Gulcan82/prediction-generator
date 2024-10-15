@@ -1,3 +1,5 @@
+*/prediction-generator-lambda.zip
+
 .DS_Store
 
 # Logs
@@ -169,3 +171,4 @@ terraform*/.terraform.lock.hcl
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
