@@ -20,7 +20,7 @@ module "predition_generator_lambda" {
     }  
 }
 module "prediction_dynamodb_table" {
-    source = "../modules/dynamodb"
+    source = "././modules/dynamodb"
 
  
 }
